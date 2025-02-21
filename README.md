@@ -1,3 +1,7 @@
 # Demo
 
-Hey There!, I am learning Github!
+## Hey There!
+
+This is my journey on learning github.
+
+
